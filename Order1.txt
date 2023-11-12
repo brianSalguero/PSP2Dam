@@ -1,0 +1,93 @@
+ManufacturingI1
+ Writing to file...
+
+ManufacturingI2
+ Writing to file...
+
+ManufacturingI3
+ Writing to file...
+
+ManufacturingO1
+ Writing to file...
+
+ManufacturingO2
+ Writing to file...
+
+ManufacturingO3
+ Writing to file...
+
+ManufacturingJ1
+ Writing to file...
+
+ManufacturingO4
+ Writing to file...
+
+Executant la fabricació de I3
+
+Executant la fabricació de O1
+
+Executant la fabricació de O2
+
+Executant la fabricació de O4
+
+Peca afegida a la llista: I1_20231112_203231
+ Peca fabricada amb èxit: I1_20231112_203231
+
+ManufacturingL1
+ Writing to file...
+
+Peca afegida a la llista: O4_20231112_203231
+ Peca fabricada amb èxit: O4_20231112_203231
+
+ManufacturingL2
+ Writing to file...
+
+Peca afegida a la llista: O2_20231112_203231
+ Peca fabricada amb èxit: O2_20231112_203231
+
+ManufacturingL3
+ Writing to file...
+
+Peca afegida a la llista: O3_20231112_203231
+ Peca fabricada amb èxit: O3_20231112_203231
+
+ManufacturingL4
+ Writing to file...
+
+Peca afegida a la llista: O1_20231112_203231
+ Peca fabricada amb èxit: O1_20231112_203231
+
+ManufacturingS1
+ Writing to file...
+
+Peca afegida a la llista: I3_20231112_203231
+ Peca fabricada amb èxit: I3_20231112_203231
+
+Peca afegida a la llista: I2_20231112_203231
+ Peca fabricada amb èxit: I2_20231112_203231
+
+Executant la fabricació de J1
+
+Peca afegida a la llista: J1_20231112_203234
+ Peca fabricada amb èxit: J1_20231112_203234
+
+Executant la fabricació de L1
+
+Peca afegida a la llista: L1_20231112_203237
+ Peca fabricada amb èxit: L1_20231112_203237
+
+Executant la fabricació de L2
+
+Peca afegida a la llista: L3_20231112_203237
+ Peca fabricada amb èxit: L3_20231112_203237
+
+Peca afegida a la llista: S1_20231112_203237
+ Peca fabricada amb èxit: S1_20231112_203237
+
+Peca afegida a la llista: L4_20231112_203237
+ Peca fabricada amb èxit: L4_20231112_203237
+
+Peca afegida a la llista: L2_20231112_203237
+ Peca fabricada amb èxit: L2_20231112_203237
+
+Llista de peces escrita en el fitxer: LOG_20231112_203237.txt
