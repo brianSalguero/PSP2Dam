@@ -1,0 +1,7 @@
+Titulo: Luces de Bohemia
+Usuari1: M’ha agradat
+Usuari2: No m’ha agradat
+Usuari3: Ni fu ni fa
+Brian: Molt llarg
+Jose: Prueba Texto
+Laura: ressenya de Laura
